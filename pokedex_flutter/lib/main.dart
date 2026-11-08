@@ -29,7 +29,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var url =
-      "https://raw.githubusercontent.com/Azazel17/pokehub/refs/heads/master/pokehub.json";
+      "https://raw.githubusercontent.com/oscarjoleam-ai/Equipo1-Elaboracion-de-un-Pokedex/refs/heads/main/pokedex_flutter/datos/txt/json/pokedex.json";
 
   POKEMON? Pokehub;
 
